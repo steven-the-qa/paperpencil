@@ -3,6 +3,10 @@
 h1 {
   text-align: center;
 }
+h3 {
+  text-align: left;
+  font-weight: bold;
+}
 button {
   height: 10vh;
   border-radius: 5px;
